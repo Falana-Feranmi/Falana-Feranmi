@@ -2,7 +2,7 @@
 ## About Falana Feranmi 👋
 
 I am a Data-driven Analyst and Designer merging analytics with creative problem-solving. Armed with Python, SQL, Excel, and Power BI, 
-I transform complex data into actionable insights and compelling visualizations. Leveraging 2+ years of experience in media and design, 
+I transform complex data into actionable insights and compelling visualizations. Leveraging 5+ years of experience in media and design, 
 I've driven measurable results including a 20% increase in brand recognition through data-informed social media campaigns. 
 My toolkit combines statistical analysis, dashboard creation, and design thinking to tackle business challenges head-on. Proficient in:
 
